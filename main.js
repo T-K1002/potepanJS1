@@ -49,6 +49,7 @@ reset.disabled = false;
 clearInterval(tm);
 });
  
+ 
 reset.addEventListener("click",function() {
 start.disabled = false;
 stop.disabled = true;
